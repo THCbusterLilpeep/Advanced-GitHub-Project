@@ -1,5 +1,5 @@
 function helloworld() {
-    console.log("Hello, GitHub!");
+    console.log("Wellcome to advancrd GitHub project!");
 }
 
 helloworld();
